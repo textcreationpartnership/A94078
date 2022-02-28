@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plot discovered, in which, divers cavaliers of Scotland should have surprised Barwick. Also how the Marquesse of Arguile, the Earle of Crawford Linsey, Earl of Lanerick, and Major Innis, met in the field upon a challenge to fight, and the proceedings of the Parliament therein. With five propositions concerning the King, the amity of the kingdomes, reformation in religion, and the keeping of the Covenant. Agreed on by the Generall Assembly of the Kirk, and presented to the Parliament of Scotland, March I. 1647. And published for the members of that church and kingdome, and brethren of the ministery.</title>
+            <author>Stuart, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94078</idno>
+            <idno type="STC">Wing S6027</idno>
+            <idno type="STC">Thomason E433_9</idno>
+            <idno type="STC">ESTC R206191</idno>
+            <idno type="EEBO-CITATION">99865366</idno>
+            <idno type="PROQUEST">99865366</idno>
+            <idno type="VID">161541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161541)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plot discovered, in which, divers cavaliers of Scotland should have surprised Barwick. Also how the Marquesse of Arguile, the Earle of Crawford Linsey, Earl of Lanerick, and Major Innis, met in the field upon a challenge to fight, and the proceedings of the Parliament therein. With five propositions concerning the King, the amity of the kingdomes, reformation in religion, and the keeping of the Covenant. Agreed on by the Generall Assembly of the Kirk, and presented to the Parliament of Scotland, March I. 1647. And published for the members of that church and kingdome, and brethren of the ministery.</title>
+                  <author>Stuart, George.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: George Stuart.</note>
+                  <note>Five propositions signed: A. Ker.</note>
+                  <note>Annotation on Thomason copy: "March 21 1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161541:1" rendition="simple:additions"/>
+            <p>A PLOT DISCOVERED, In which, divers Cavaliers of <hi>Scotland,</hi> ſhould have ſurpriſed <hi>Barwick.</hi> ALSO How the Marqueſſe of <hi>Arguile,</hi> the Earle of <hi>Crawford Linſey,</hi> Earl of <hi>Lanerick,</hi> and Major <hi>Innis,</hi> met in the field upon a chal<g ref="char:EOLhyphen"/>lenge to fight, and the proceedings of the <hi>Parliament</hi> therein.</p>
+            <p>WITH Five PROPOSITIONS concern<g ref="char:EOLhyphen"/>ing the <hi>King,</hi> the Amity of the kingdomes, Reformation in Religion, and the keeping of the COVENANT.</p>
+            <p>
+               <hi>Agreed on by the Generall Aſſembly of the Kirk, and preſented to the Parliament of</hi> Scotland, March 1. 1647. And publiſhed for the Members of that Church and Kingdome, and Brethren of the Miniſtery.</p>
+            <p>LONDON, Printed for <hi>H. Becke,</hi> and are to be ſold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161541:2"/>
+            <pb n="1" facs="tcp:161541:2"/>
+            <opener>
+               <salute>Right Honourable.</salute>
+            </opener>
+            <p>UPon Munday laſt, the Marqueſſe of <hi>Ar<g ref="char:EOLhyphen"/>guile,</hi> and Earl of <hi>Crayford</hi> and <hi>Lindſey</hi> fell out, and challenging each other to a com<g ref="char:EOLhyphen"/>bate, <hi>Leeth Lincke,</hi> was the place appointed, the Earle of <hi>Lanerick</hi> was ſecond to <hi>Crayford,</hi> and Major <hi>Innis</hi> to <hi>Arguile,</hi> it ſhould ſeem that <hi>Innis</hi> was ignorant of it, untill that both the Noblemen ſtript themſelves to their ſhirts, then Major <hi>Innis</hi> told them, that he did not know their intentions, and that he was ready to hazard his life for <hi>Arguile,</hi> but againſt the Earl of <hi>Crayford</hi> he would in no wiſe ingage, and kept them in ſome diſ<g ref="char:EOLhyphen"/>courſe to that effect, until ſuch time that ſome others came to them, and hindred their pur<g ref="char:EOLhyphen"/>poſe: notice being given thereof to the Par<g ref="char:EOLhyphen"/>liament, the whole houſe roſe, and divers of them went to them, to pacifie them, but are not as yet reconciled.</p>
+            <p>Intimation being given that this Town ſhould be ſeized on yeſterday by the Scots and Cavaliers: (a Horſecourſe being intended upon our bounds,) The Mayor and Aldermen ſummoned a generall meeting, of all the Burgers, where it was Ordered that the Horſecourſe ſhould be diſmiſſed by Proclamation, which was accordingly done, and a ſtrong guard of
+<pb n="2" facs="tcp:161541:3"/>Towneſmen continually to bee kept during theſe doubtfull times. I have ſent your honour here inclo<g ref="char:EOLhyphen"/>ſed the Copy of five Propoſitions from the Generall Aſſembly of the Kirk of <hi>Scotland,</hi> delivered by them to the Parliament, with their Declaration: My Lord, I muſt conclude, being in heart.</p>
+            <closer>
+               <signed>
+                  <hi>Your loving Friend,</hi> George Stuart.</signed>
+               <dateline>
+                  <hi>Berwick</hi> 
+                  <date>15 <hi>March.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="propositions">
+            <head>Five Propoſitions from the Generall Aſſembly of the Kirk of <hi>Scotland,</hi> and to all Members of that Church and Kingdom, and to the Brethren of the Miniſtery.</head>
+            <p>FIrſt of all, we exhort all and every one to make more conſcience of indevouring are all Reforma<g ref="char:EOLhyphen"/>tion of themſelves and their Families, and of the places in which they live, then ever yet they have don; to be more ſerious in ſearching their hearts, conſider<g ref="char:EOLhyphen"/>ing their wayes, and purging themſelves from all fil<g ref="char:EOLhyphen"/>thineſſe of the fleſh &amp; ſpirit, to perfect holineſſe in the fear of God; to oppoſe wickednes &amp; profanenes, pro<g ref="char:EOLhyphen"/>mote the power &amp; practice of godlines, &amp; to be deep<g ref="char:EOLhyphen"/>ly humbled before the Lord, for neglecting theſe things ſo much and ſo long; withall imploying &amp; improving Chriſts all-ſufficiency, &amp; ſtriving to exerciſe faith in him, for the grace of mortification &amp; ſanctification, as well as for remiſſion of ſins and peace with God; that being implanted &amp; rooted in him, we may grow up as trees of Righteouſneſſe, the planting of the Lord that he may be glorified; for without amendment of life,
+<pb n="3" facs="tcp:161541:3"/>and bringing forth of better fruit, the fierce wrath of the Lord cannot turn away from us.</p>
+            <p n="2">2. As men deſire they may not be led into tempta<g ref="char:EOLhyphen"/>tion, but may be guided in ſafe and right paths, in the midſt of ſo great difficulties, Let them avoid the com<g ref="char:EOLhyphen"/>pany and counſell of the ungodly, whereby even good men have been oft times moſt dangerouſly inſnared; Let all that fear God, chooſe the Teſtimonies of the Lord for their Counſellors, be much in prayer and ſearching the minde of God in his Word, without leaning to their own underſtanding, or conſulting with fleſh and blood in caſes of Conſcience.</p>
+            <p n="3">3. ſeeing it is no act of wiſdom but of folly, ſo to ſhunne one danger as to runne upon another as bad or worſe; let us therefore avoid enemies and beware of dangers on al hands: We cannot ſee but the Cauſe of God, true Religion, the Covenant, Presbyteriall Go<g ref="char:EOLhyphen"/>vernment, this Church and Kingdom, and whatſoe<g ref="char:EOLhyphen"/>ver is deareſt unto us will be in as great danger, if the Prelaticall party prevail, as now they are in, by the power and prevalency of Sectaries in <hi>England,</hi> who have made the Covenant and begun reformation to be laid aſide, and hindred the promoting thereof. So that there is a neceſſity to be apprehenſive of dangers, and attentive to remedies on both ſides, and to beware of compliance with, and connivance at Sectaries upon the one hand, and Malignants on the other.</p>
+            <p n="4">4. when we ſpeak of Malignants, we deſire that the diſtinction may be remembred, which was made in the ſolemn Warning to the Kingdome from the Aſ<g ref="char:EOLhyphen"/>ſembly in <hi>Feb.</hi> 1647. <hi>viz.</hi> That the cauſe is in very great danger from two ſorts of Malignant Enemies: 1. From ſuch as have openly diſplayed a Banner, or
+<pb n="4" facs="tcp:161541:4"/>joyned in Armes and profeſſe Hoſtility againſt the cauſe, and ſuch as adhere thereunto: 2. From ſecret Malignants, Diſ-covenanters, and boſome Enemies. This ſecond ſort may be ſtill knowne ſome Charact<g ref="char:EOLhyphen"/>ers, given both at that time and before that time, As by their ſlandering or cenſuring the Covenant of the three Kingdomes and expedition into <hi>England,</hi> in the year 1643. as not neceſſary for the good of Religion, or ſafety of this kingdome, or as tending to the di<g ref="char:EOLhyphen"/>minution of the Kings juſt power and greatneſſe, by their confounding of the Kings power and juſt Au<g ref="char:EOLhyphen"/>thority, with the pretence and abuſe therof by Com<g ref="char:EOLhyphen"/>miſſions, Warrants, or Letters procured from His Ma<g ref="char:EOLhyphen"/>jeſty by the Enemies of this Cauſe and Covenant. As if none were faithfull and loyall to the King, who op<g ref="char:EOLhyphen"/>poſe ſuch men and their wayes; By their Spleen, Ma<g ref="char:EOLhyphen"/>lice, and Calumnies againſt ſuch as God hath made eminently inſtrumentall in this cauſe, and who re<g ref="char:EOLhyphen"/>ſolve to be conſtant to the end in their firſt Princi<g ref="char:EOLhyphen"/>ples, as if ſuch men were the Kings Enemies who are moſt zealous for the good &amp; ſafety of Religion; by their co<g ref="char:cmbAbbrStroke">̄</g>mending, juſtifying, or excuſing other known Malignants, &amp; by their converſing or intercommuning with excommunicate Delinquents. Vnto which Cha<g ref="char:EOLhyphen"/>racters time and experience give us occaſion to adde ſome others, as namely, their unwillingnes and declin<g ref="char:EOLhyphen"/>ing to reckon Malignants among the Enemies of this cauſe from whom danger is to be apprehended; their diſjoyning and dividing the duty of indeavouring the Kings Majeſties preſervation and reſtitution, from the duty of preſerving, defending, ſetling and ſecuring re<g ref="char:EOLhyphen"/>ligion; As if we might and ought to purſue the former without the latter while both are in danger; their ma<g ref="char:EOLhyphen"/>ligning
+<pb n="5" facs="tcp:161541:4"/>of, and uttering malicious words againſt faith<g ref="char:EOLhyphen"/>full and Zealous Miniſters, and againſt this meeting and Judicatory, appointed by the General Aſſembly. Laſtly, their crying up or downe of parties or perſons and even of the Sectaries themſelves according as they have more or leſſe hopes of advantage from them to their owne deſignes. For its no long ſince ſuch men made light account of any dangers, which were ap<g ref="char:EOLhyphen"/>prehended from the prevalent faction of the Sectaries in <hi>England;</hi> There being then ſome hopes of a com<g ref="char:EOLhyphen"/>pliance and combination between them &amp; the <hi>Malig<g ref="char:EOLhyphen"/>nants:</hi> Which is an infallible demonſtration that ſuch mens pretended zeale againſt thoſe Sectaries now, is not from the right principle. Wherefore let all ſuch dangerous perſons as have here been deciphered and deſcribed, be carefully obſerved and avoyded, as men would keep themſelves pure, and free of ſnares: And let Presbyteries be diligent to diſcover, try, and cenſure any of this kind in their bounds, that they may be able herein to give a good account of their dilli<g ref="char:EOLhyphen"/>gence; As alſo, that they be carefull to diſcover, try, and cenſure any trafficking Sectaries, and all ſuch as favour their opinions and wayes.</p>
+            <p>Fifthly, Though we eſteem that prevalent faction of Se<g ref="char:EOLhyphen"/>ctaries with their abetters and adherents, preſumptuous and malicious Enemies to Religion, King, and Govern<g ref="char:EOLhyphen"/>ment: Yet we hold it is our duty to labour to remove and prevent all occaſions of jealouſies and ſuſpitions betwixt the Kingdomes; and to doe or ſay nothing that may breed miſ-underſtandings, break off correſpondence, weaken the confidence or infringe the Union &amp; peace betwixt the two Kingdomes, ſo happily eſtabliſhed in his Majeſties preſence, and with his Royall conſent in both Parliaments: A cau<g ref="char:EOLhyphen"/>tion as neceſſary now, as when it was given above five years agoe in a Warning from the Commiſſioners of the Generall
+<pb n="6" facs="tcp:161541:5"/>Aſſembly, met in this ſame place, <hi>January</hi> the fourth, 1643 And generally we deſire that all the Articles and clauſes of the Solemn. League and Covenant may be kept inſepara<g ref="char:EOLhyphen"/>bly and inviolably linked together, and that there may be great tenderneſſe and care to avoide every thing which may bee interpreted as a contradicting and abandoning of the former principles, Proceedings, Petitions, Proteſtations, Remonſtrances, and Declarations of this Kirk and Kingdom in the purſuance of this cauſe; and more eſpecially to take good heed that <hi>Scotlands</hi> deſires, doe not mount higher for the King, and fall lower in the poynt of Religion, then they were at our firſt undertaking, and ingagement in this cauſe.</p>
+            <p>Finally, wee doe moſt ſeriouſly obteſt all the people of God in this nation, and eſpecially the Eſtates of Parliament by their love to the cauſe of God, by their ſolemne Vowes and Covenants, by their firſt principles and profeſſions, by their former zeal and ſincerity, by the many bleſſings of God, and great works done for us when our zeal and inte<g ref="char:EOLhyphen"/>grity was greateſt in this cauſe, and by all the curſes and judgements of God which his word denounceth againſt backe-ſliders and Covenant-breakers, that they may al the dayes of their lives continue firme, ſtedfaſt and faithfull in their Covenant with God, and one with another, and make good their former profeſſions in a time of tentation and difficulty, without wavering or falling off to the right-hand, or to the left, and as many as walke according to this rule, peace be on them and mercy, and upon the Iſrael of God.</p>
+            <closer>
+               <signed>A. KER.</signed>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
